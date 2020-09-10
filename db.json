@@ -6,12 +6,5 @@
         "result": {
             "id": "9a7806061c88ada191ed06f989cc3dac"
         }
-    },
-    "error": {
-        "success": false,
-        "errors": [{
-            "code": 10000,
-            "message": "Authentication error"
-        }]
     }
 }
